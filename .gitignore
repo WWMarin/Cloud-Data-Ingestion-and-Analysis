@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Database connection settings
+# project/database.ini (in a real project this file should not be sent to production)
