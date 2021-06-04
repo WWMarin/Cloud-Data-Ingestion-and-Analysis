@@ -31,11 +31,9 @@ After these libraries are successfully installed, run ``jupyter-notebook``. This
 Then, navigate to the project folder and into ``./project/``. There you will find the jupyter notebook files for execution.
 
 ### Viewing Online
-To view the notebooks online, simply click on the respective links for each script for Jupyter Notebook Viewer, or the Binder badge:
+To view the notebooks online, simply click on the respective links for each script for Jupyter Notebook Viewer, or the Binder badge to run them on Binder.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
-
-to run them on Binder.
+If Binder fails to launch for a specific script, launch the project here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WWMarin/Cloud-Data-Ingestion-and-Analysis/main)
 
 ## Project Architecture
 The database was structured in the following manner:
