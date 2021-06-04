@@ -98,7 +98,7 @@ Launch this notebook on Binder [![Binder](https://mybinder.org/badge_logo.svg)](
 
 ![Analysis 5][analysis5]
 
-## Conlcusion
+## Conclusion
 This project is hosted at <https://github.com/WWMarin/Cloud-Data-Ingestion-and-Analysis>
 
 [dataModel]: https://raw.githubusercontent.com/WWMarin/Cloud-Data-Ingestion-and-Analysis/main/assets/dataModel.png
