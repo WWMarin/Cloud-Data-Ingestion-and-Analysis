@@ -1,5 +1,6 @@
 Link to this GitHub repository: <https://github.com/WWMarin/Cloud-Data-Ingestion-and-Analysis>
 # Cloud Data Ingestion and Analysis
+by [Werner W. Marin](https://github.com/WWMarin)
 ## Summary
 This is an example project in which we access a cloud database via Python and run scripts to analyse the data using the Pandas library.
 
